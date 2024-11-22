@@ -23,6 +23,4 @@ Funtionality description:
   an input to write notes about the task (could be used in the future on single task screen);
   a button to save the changes and create the task, which navigates us back to a home screen after success;
 
-
-  Preview of the project.
   <img width="344" alt="Screenshot 2024-11-22 at 13 11 27" src="https://github.com/user-attachments/assets/39d9233e-9fab-4393-9b6c-9d45e4b74702">
